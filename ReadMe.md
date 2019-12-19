@@ -1,34 +1,61 @@
 # Fantastic Youtube Channels List.
 
 ## Abbreviations
+
 - Youtube -YT
 
 ## Description
+
 This is an open youtube channels list from where anyone can easilly find out YT-channels that are loved by community.
 
 ---
 
-# Android Development
+## Android Development
 
-# Artificial Intelligence
+---
 
-# Designing
+## Artificial Intelligence
+
+---
+
+## Designing
+
+---
+
 ## SQL
+
+---
+
 ## NoSql
 
-# Programming
-## JavaScript
-## Python
-## PHP
-## Java
+---
 
-# Data Structures
+## Programming
 
-# Databases
+### JavaScript
 
-# Web Development
+- [Programming with Mosh ](https://www.youtube.com/user/programmingwithmosh "Youtube Channel Link") Instrustor - 'Mosh Manadani'
 
-# Block Chain
+### Python
 
+- [Corey Schafer](https://www.youtube.com/user/schafer5 "Youtube Channel Link") Instructor - 'Corey Schafer'
 
+### PHP
 
+### Java
+
+---
+
+## Data Structures
+
+---
+
+## Databases
+
+## Web Development
+
+- [The net ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg "Youtube Channel Link") Instructor - ?
+
+- [DevSage](https://www.youtube.com/channel/UCV4AXpDSxschk8I0sCl8JXw "Youtube Channel Link") Instructor - Sage
+
+## Block Chain
