@@ -12,6 +12,18 @@
 
 This is an open youtube channels list from where anyone can easilly find out YT-channels that are loved by community.
 
+### How to Contribute ?
+
+You can contribute to this fantastic-youtube-list repo by sending pull request, after forking and modifying your fork.
+
+#### Still Confused ? Read These...
+
+- [5 Types of Git Workflow.](https://buddy.works/blog/5-types-of-git-workflows "Article")
+
+- [Introduction to GitHub.](https://www.notion.so/Introduction-to-GitHub-202af6f64bbd4299b15f238dcd09d2a7 "Using Github for Collaboration")
+
+- [Introduction to Git.](https://www.notion.so/Introduction-to-Git-ac396a0697704709a12b6a0e545db049 "Using and Understanding Git")
+
 ---
 
 ## Android Development
