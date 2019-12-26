@@ -88,11 +88,15 @@ You can contribute to this fantastic-youtube-list repo by sending pull request, 
 
 ### Java
 
+- [thenewboston](https://www.youtube.com/channel/UCJbPGzawDH1njbqV-D5HqKw "Youtube Channel Link") Instructor - Bucky Roberts
+
+- [Java Brains](https://www.youtube.com/channel/UCYt1sfh5464XaDBH0oH_o7Q "Youtube Channel Link") Instructor - ?
+
 - [ProgrammingKnowledge](https://www.youtube.com/user/ProgrammingKnowledge "Youtube Channel Link") Instructor - ?
 
 - [ProgrammingKnowledge2](https://www.youtube.com/user/SilentGermanLessons "Youtube Channel Link") Instructor - ?
 
-### C
+### C-Sharp
 
 - [Programming with Mosh ](https://www.youtube.com/user/programmingwithmosh "Youtube Channel Link") Instrustor - Mosh Manadani
 
@@ -123,5 +127,9 @@ You can contribute to this fantastic-youtube-list repo by sending pull request, 
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb/playlists "Youtube Chennel Link") Instructor - ?
 
 - [Brad Hussey](https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA "Youtube Channel Link") Instructor - Brad Hussey
+
+## Data Structures
+
+- [Programming with Mosh ](https://www.youtube.com/user/programmingwithmosh "Youtube Channel Link") Instrustor - Mosh Manadani
 
 ## Block Chain
