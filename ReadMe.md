@@ -132,4 +132,17 @@ You can contribute to this fantastic-youtube-list repo by sending pull request, 
 
 - [Programming with Mosh ](https://www.youtube.com/user/programmingwithmosh "Youtube Channel Link") Instrustor - Mosh Manadani
 
+
+## Bash Scripting
+- [Joe Collins](https://www.youtube.com/user/BadEditPro "Youtube Channel Link") Instructor - Joe Collins
+
+
+## Reverse Engineering
+- [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w "Youtube Channel Link") Instructor - ?
+
+
+
 ## Block Chain
+
+
+
