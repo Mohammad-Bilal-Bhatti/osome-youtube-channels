@@ -86,6 +86,10 @@ You can contribute to this fantastic-youtube-list repo by sending pull request, 
 
 ### PHP
 
+-[mmtuts](https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-) Instructor - ?
+
+-[Coding Passive Income](https://www.youtube.com/channel/UCftdWt8OxUQ3FKYtw2G6lRA) Insructor - ?
+
 ### Java
 
 - [thenewboston](https://www.youtube.com/channel/UCJbPGzawDH1njbqV-D5HqKw "Youtube Channel Link") Instructor - Bucky Roberts
@@ -127,7 +131,14 @@ You can contribute to this fantastic-youtube-list repo by sending pull request, 
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb/playlists "Youtube Chennel Link") Instructor - ?
 
 - [Brad Hussey](https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA "Youtube Channel Link") Instructor - Brad Hussey
+## Wordpress Development and Designing 
 
+- [
+Freelance Pakistan](https://www.youtube.com/playlist?list=PLEEg17VzyLfs1oj9cyfNLr650KBH7wHk0) Instructor - Farooq Hussain Shah 
+
+- [deSaleemi](https://www.youtube.com/channel/UCGumj0nK0pOfUzkXFbufG6Q) Instructor - Sabtain Ali Saleemi
+
+- [Nayyar Shaikh](https://www.youtube.com/channel/UCVgHeVqf7aIlqXQtB83v4sw) Instructor - Nayyar Shaikh
 ## Data Structures
 
 - [Programming with Mosh ](https://www.youtube.com/user/programmingwithmosh "Youtube Channel Link") Instrustor - Mosh Manadani
