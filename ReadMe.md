@@ -38,6 +38,8 @@ You can contribute to this fantastic-youtube-list repo by sending pull request, 
 
 - [Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q "Youtube Channel Link") Games AI Examples
 
+- [Two Minute Papers](https://www.youtube.com/user/keeroyz "Youtube Channel Link") AI oriented researches
+
 ---
 
 ## Designing
@@ -128,21 +130,36 @@ You can contribute to this fantastic-youtube-list repo by sending pull request, 
 
 - [Brad Hussey](https://www.youtube.com/channel/UCVguiojKA6iobcySMJ5boNA "Youtube Channel Link") Instructor - Brad Hussey
 
+---
+
 ## Data Structures
 
 - [Programming with Mosh ](https://www.youtube.com/user/programmingwithmosh "Youtube Channel Link") Instrustor - Mosh Manadani
 
+---
 
 ## Bash Scripting
+
 - [Joe Collins](https://www.youtube.com/user/BadEditPro "Youtube Channel Link") Instructor - Joe Collins
 
+- [LearnLinuxTV](https://www.youtube.com/user/JtheLinuxguy "Youtube Channel Link") Instructor - ?
+
+- [linuxhint](https://www.youtube.com/channel/UCHErB0TULAlldbhPMfBJ1Xg "Youtube Channel Link") Instructor -?
+
+---
 
 ## Reverse Engineering
+
 - [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w "Youtube Channel Link") Instructor - ?
 
+---
 
+## Audio Engineering
+
+- [In The Mix](https://www.youtube.com/channel/UCIcCXe3iWo6lq-iWKV40Oug "Youtube Channel Link") Learn how to create music
+
+---
 
 ## Block Chain
 
-
-
+---
