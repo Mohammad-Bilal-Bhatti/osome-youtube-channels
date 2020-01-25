@@ -180,11 +180,18 @@ You can contribute to this fantastic-youtube-list repo by sending pull request, 
 
 ---
 
-## User-ful Links.
+## Userful Links Section.
 
 ### Online Code Editors:
 
 - [codepen.io](https://codepen.io "Link") | Discover and write fornt end codes.
+- [playcode.io](https://playcode.io/ "Link") | write and execute code online.
+- [codesandbox.io](https://codesandbox.io/ "Link") | create your send box environment of your choice and play.
+- [npm.runkit.com](https://npm.runkit.com/ "Link") | test any javascript module/package online.
+
+### Challange your self:
+
+- [hackerrank.com](https://www.hackerrank.com/ "Link") | check your level of coding skills.
 
 ### CSS
 
@@ -203,12 +210,15 @@ You can contribute to this fantastic-youtube-list repo by sending pull request, 
 
 ### Cool Stuff For Study
 
-- [Css-tricks.com](https://css-tricks.com/almanac/properties/t/text-transform/ "Link")
-- [sitepoint.com](https://www.sitepoint.com/html-css/css/ "Link")
+- [Css-tricks.com](https://css-tricks.com/almanac/properties/t/text-transform/ "Link") | a great site for reading articles on css
+- [sitepoint.com](https://www.sitepoint.com/html-css/css/ "Link") | a gread site for reading articles on html-css
+- [packtpub.com](https://subscription.packtpub.com/ "Link") | online resource for reading tech books
+- [opensource.com](https://opensource.com/tags/command-line "Link") | a plateform for open source community.
+- [github.blog](https://github.blog/ "Link") | read articles and blogs related to engineering and tech.
 
 ### Free Website Templates.
 
-- [Theme-wagon](https://themewagon.com/ "Link")
+- [Theme-wagon](https://themewagon.com/ "Link") | download 1000+ free templates and use them.
 
 ### Colors:
 
