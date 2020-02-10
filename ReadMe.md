@@ -225,10 +225,11 @@ You can contribute to this fantastic-youtube-list repo by sending pull request, 
 - [Colorhunt.co](https://colorhunt.co/ "Link")
 - [color.adobe.com](https://color.adobe.com/explore "Link")
 - [paleton.com](https://www.paleton.com "Link")
+- [colormin.io](http://colormind.io/template/ "Link") | Ai based color scheme combination maker.
 
 ### Font:
 
-- [mixfont.com](https://www.mixfont.com/Titillium-Web+Nixie-One "link")
+- [mixfont.com](https://www.mixfont.com/Titillium-Web+Nixie-One "link") | Ai based font selector.
 
 ### Images:
 
@@ -236,6 +237,11 @@ You can contribute to this fantastic-youtube-list repo by sending pull request, 
 - [unsplash.com](https://unsplash.com "Link") | Free Images Site.
 - [pixlr.com](https://pixlr.com "Link") | Online photo Editor.
 - [compressor.io](https://compressor.io "Link") | Online Photo Compersing Tool.
+
+### Music
+- [bensound.com](https://www.bensound.com/ "Link") | free and premium sounds for your project.
+
+- [soundcloud.com](https://soundcloud.com/ "Link") | sound and music plateform for sharing.
 
 ### Un-organized
 
