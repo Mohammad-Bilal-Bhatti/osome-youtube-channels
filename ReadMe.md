@@ -226,6 +226,18 @@ You can contribute to this fantastic-youtube-list repo by sending pull request, 
 - [color.adobe.com](https://color.adobe.com/explore "Link")
 - [paleton.com](https://www.paleton.com "Link")
 - [colormin.io](http://colormind.io/template/ "Link") | Ai based color scheme combination maker.
+- [coolors.co](https://coolors.co/ "Link")
+- [mycolor.space](https://mycolor.space/ "Link")
+- [colourlovers.com](https://www.colourlovers.com/ "Link")
+- [hailpizel.com](https://color.hailpixel.com/ "Link")
+- [colordesigner.io](https://colordesigner.io/ "Link")
+- [colorco.de](https://colourco.de/ "Link")
+- [javier.xyz](https://javier.xyz/cohesive-colors/ "Link")
+- [colr.org](http://www.colr.org/ "Link")
+- [material.io](https://material.io/ "Link")
+- [color.muz.li](https://colors.muz.li/ "Link")
+- [materialpalette.com](https://www.materialpalette.com/ "Link")
+- [colorsinspo.com](https://colorsinspo.com/ "Link")
 
 ### Font:
 
