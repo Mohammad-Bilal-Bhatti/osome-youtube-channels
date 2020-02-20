@@ -74,6 +74,9 @@ You can contribute to this fantastic-youtube-list repo by sending pull request, 
 
 - ["Red Stapler"](https://www.youtube.com/channel/UCRthRrv06q1iOl86-tTKJhg/playlists "Youtube Channel Link") Owned by Coders
 
+- ['Fireship'](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA/playlists "Youtube Channel Link") | Javascript Cooktube 
+
+
 ### Python
 
 - [Corey Schafer](https://www.youtube.com/user/schafer5 "Youtube Channel Link") Instructor - Corey Schafer
