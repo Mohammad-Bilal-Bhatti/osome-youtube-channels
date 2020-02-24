@@ -44,6 +44,10 @@ You can contribute to this fantastic-youtube-list repo by sending pull request, 
 
 ## Designing
 
+### Online Logo Maker
+
+- [designmantic.com](https://www.designmantic.com "site link") | Generate logo of your choice in seconds.
+
 ### Photoshop
 
 - [PiXimperfect](https://www.youtube.com/channel/UCMrvLMUITAImCHMOhX88PYQ "Youtube Channel Link") Instructor - Unmesh Dinda
