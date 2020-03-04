@@ -40,6 +40,8 @@ You can contribute to this fantastic-youtube-list repo by sending pull request, 
 
 - [Two Minute Papers](https://www.youtube.com/user/keeroyz "Youtube Channel Link") AI oriented researches
 
+- [Jabrils](https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg "Channel Link") | AI and Machine learning tutorials.
+
 ---
 
 ## Designing
