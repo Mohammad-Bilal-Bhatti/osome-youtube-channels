@@ -26,6 +26,10 @@ You can contribute to this fantastic-youtube-list repo by sending pull request, 
 
 ---
 
+## Table Of Content
+
+
+
 ## Android Development
 
 - [Aws Rh](https://www.youtube.com/channel/UCoQp_Duwqh0JWEZrg4DT2Ug "Youtube Channel Link") Instructor - Aws Rh
@@ -61,6 +65,40 @@ You can contribute to this fantastic-youtube-list repo by sending pull request, 
 - [Mohamed Achraf](https://www.youtube.com/channel/UCF6WjcZeVqy3MLBpp86eOyw "Youtube Channel Link") Instructor - Mohammd Achraf
 
 - [GFXMentor](https://www.youtube.com/channel/UCP3AIk974-PeB9bg1Mc7wug "Youtube Channel Link") Instructor - Imran Ali Dina
+
+- [Jesse Showalter](https://www.youtube.com/user/JesseAtomic/ "Youtube Channel Link") | (UI/UX, Adobe XD, Figma, etc
+
+- [Caler Edwards](https://www.youtube.com/user/CalerEdwards/videos "Youtube Channel Link") | UI/UX, Adobe XD tutorials primarily
+
+- [CharliMarieTV](https://www.youtube.com/user/charlimarieTV/ "Youtube Channel Link") | UI/UX Figma tuts, career advice
+
+- [Howard Pinksy](https://www.youtube.com/user/IceflowStudios/videos "Youtube Channel Link") | UI/UX, Senior XD Evangelist at Adobe
+
+- [Flux](https://www.youtube.com/channel/UCN7dywl5wDxTu1RM3eJ_h9Q/ "Youtube Channel Link") | Web design, ui / ux
+
+- [The Futur](https://www.youtube.com/user/TheSkoolRocks/videos "Youtube Channel Link") | High end content that pertains to creative professionals / identity designers
+
+- [Maex](https://www.youtube.com/channel/UCSdp5logiFTM3SyLJrHabOQ/videos "Youtube Channel Link") | UI/UX, A lot of sketch tutorials, some webflow, good prod quality
+
+- [Mike Locke](https://www.youtube.com/user/mlwebco/videos "Youtube Channel Link") | UI/UX, talking head style videos
+
+- [Sarah Doody](https://www.youtube.com/channel/UCxM6G42vmI752f60od3Gypw/videos "Youtube Channel Link") | UX specifically
+
+- [NNgroup](https://www.youtube.com/user/NNgroup/videos "Youtube Channel Link") | UX talks specifically
+
+- [Satori Graphics](https://www.youtube.com/channel/UCoeJKtPJLoIBqWq4o8TDLpA/videos "Youtube Channel Link") | Illustration, identity design tutorials
+
+- [Gigantic](https://www.youtube.com/channel/UCX4mqbvv5lGqLpI4FYlJt4w/videos "Youtube Channel Link") | Illustration
+
+- [The Simple Designers](https://www.youtube.com/channel/UCU3feytkHYYS2CoIZKsSMlA/videos "Youtube Channel Link") | Illustration, logo design, good prod quality, great audio quality
+
+- [Iroh Design ](https://www.youtube.com/channel/UCCNEpeHUiqQ96tJKZK4ID7g/videos "Youtube Channel Link") | Illustration, no voiceover, but shows the full process
+
+- [Zimri Mayfield](https://www.youtube.com/channel/UCbqd2YmFeHMwxlj4NcN5zPQ/ "Youtube Channel Link") | Logo / identity design
+
+- [Will Paterson](https://www.youtube.com/user/breakdesignsco/ "Youtube Channel Link") | Logo / identity design
+
+- [AJ&Smart](https://www.youtube.com/channel/UCeB_OpLspKJGiKv1CYkWFFw "Youtube Channel Link") | UX
 
 ---
 
