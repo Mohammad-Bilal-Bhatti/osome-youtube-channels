@@ -1,5 +1,39 @@
 # Fantastic Youtube Channels List.
 
+## Table Of Content
+- [Basics](#Abbreviations)
+  - [Abbreviations](#Abbreviations)
+  - [Description](#Description)
+  - [How to Contribute?](#How\ to\ Contribute?)
+- [Programming](#Programming)
+  - [Python](#Python)
+  - [Javascript](#JavaScript)
+  - [Java](#Java)
+  - [PHP](#PHP)
+  - [C#](#C-Sharp)
+  - [Android](#Android\ Development)
+  - [Web](#Web\ Development)
+  - [CssTricks](#Css\ Tricks)
+  - [Data-Structures](#Data\ Structures)  
+  - [AI](#Artificial\ Intelligence)
+  - [Wordpress](#Wordpress\ Development\ and\ Designing)
+  - [Bash Scripting](#Bash\ Scripting)
+  - [Reverse Engineering](#Reverse\ Engineering)
+- [Designing](#Designing)
+  - [Photoshop](#Photoshop)
+  - [Illustrator](#Illustrator)
+- [Audio Engineering](#Audio\ Engineering)
+- [Userful Links](#Userful\ Links\ Section)
+  - [Online Code Editors](#Online\ Code\ Editors)
+  - [Articles](#Articles)
+  - [Free Website Templates](#Free\ Website\ Templates)   
+  - [Colors](#Colors)   
+  - [Font](#Font)
+  - [Images](#Images)
+  - [Sound Effects](#Sound\ Effects)   
+
+
+
 ## Abbreviations
 
 - Youtube - YT
@@ -12,7 +46,7 @@
 
 This is an open youtube channels list from where anyone can easilly find out YT-channels that are loved by community.
 
-### How to Contribute ?
+## How to Contribute?
 
 You can contribute to this fantastic-youtube-list repo by sending pull request, after forking and modifying your fork.
 
@@ -25,10 +59,6 @@ You can contribute to this fantastic-youtube-list repo by sending pull request, 
 - [Introduction to Git.](https://www.notion.so/Introduction-to-Git-ac396a0697704709a12b6a0e545db049 "Using and Understanding Git")
 
 ---
-
-## Table Of Content
-
-
 
 ## Android Development
 
@@ -102,11 +132,12 @@ You can contribute to this fantastic-youtube-list repo by sending pull request, 
 
 ---
 
-## SQL
+## Databases
 
----
+### SQL 
 
-## NoSql
+
+### NoSql
 
 ---
 
@@ -255,7 +286,7 @@ You can contribute to this fantastic-youtube-list repo by sending pull request, 
 - [wow.js](https://wowjs.uk/ "Link")
 - [animate.css](https://daneden.github.io/animate.css/ "Link")
 
-### Cool Stuff For Study
+### Articles
 
 - [Css-tricks.com](https://css-tricks.com/almanac/properties/t/text-transform/ "Link") | a great site for reading articles on css
 - [sitepoint.com](https://www.sitepoint.com/html-css/css/ "Link") | a gread site for reading articles on html-css
@@ -297,7 +328,7 @@ You can contribute to this fantastic-youtube-list repo by sending pull request, 
 - [pixlr.com](https://pixlr.com "Link") | Online photo Editor.
 - [compressor.io](https://compressor.io "Link") | Online Photo Compersing Tool.
 
-### Music
+### Sound Effects
 - [bensound.com](https://www.bensound.com/ "Link") | free and premium sounds for your project.
 
 - [soundcloud.com](https://soundcloud.com/ "Link") | sound and music plateform for sharing.
