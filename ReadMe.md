@@ -22,6 +22,9 @@
 - [Designing](#Designing)
   - [Photoshop](#Photoshop)
   - [Illustrator](#Illustrator)
+- [Databases](#Databases)
+  - [SQL](#SQL)
+  - [No-Sql](#NoSql)
 - [Audio Engineering](#Audio\ Engineering)
 - [Userful Links](#Userful\ Links\ Section)
   - [Online Code Editors](#Online\ Code\ Editors)
@@ -134,7 +137,7 @@ You can contribute to this fantastic-youtube-list repo by sending pull request, 
 
 ## Databases
 
-### SQL 
+### SQL
 
 
 ### NoSql
