@@ -1,41 +1,40 @@
 # Fantastic Youtube Channels List.
 
 ## Table Of Content
+
 - [Basics](#Abbreviations)
   - [Abbreviations](#Abbreviations)
   - [Description](#Description)
-  - [How to Contribute?](#How\ to\ Contribute?)
+  - [How to Contribute?](<#How\ to\ Contribute?>)
 - [Programming](#Programming)
   - [Python](#Python)
   - [Javascript](#JavaScript)
   - [Java](#Java)
   - [PHP](#PHP)
   - [C#](#C-Sharp)
-  - [Android](#Android\ Development)
-  - [Web](#Web\ Development)
-  - [CssTricks](#Css\ Tricks)
-  - [Data-Structures](#Data\ Structures)  
-  - [AI](#Artificial\ Intelligence)
-  - [Wordpress](#Wordpress\ Development\ and\ Designing)
-  - [Bash Scripting](#Bash\ Scripting)
-  - [Reverse Engineering](#Reverse\ Engineering)
+  - [Android](<#Android\ Development>)
+  - [Web](<#Web\ Development>)
+  - [CssTricks](<#Css\ Tricks>)
+  - [Data-Structures](<#Data\ Structures>)
+  - [AI](<#Artificial\ Intelligence>)
+  - [Wordpress](<#Wordpress\ Development\ and\ Designing>)
+  - [Bash Scripting](<#Bash\ Scripting>)
+  - [Reverse Engineering](<#Reverse\ Engineering>)
 - [Designing](#Designing)
   - [Photoshop](#Photoshop)
   - [Illustrator](#Illustrator)
 - [Databases](#Databases)
   - [SQL](#SQL)
   - [No-Sql](#NoSql)
-- [Audio Engineering](#Audio\ Engineering)
-- [Userful Links](#Userful\ Links\ Section)
-  - [Online Code Editors](#Online\ Code\ Editors)
+- [Audio Engineering](<#Audio\ Engineering>)
+- [Userful Links](<#Userful\ Links\ Section>)
+  - [Online Code Editors](<#Online\ Code\ Editors>)
   - [Articles](#Articles)
-  - [Free Website Templates](#Free\ Website\ Templates)   
-  - [Colors](#Colors)   
+  - [Free Website Templates](<#Free\ Website\ Templates>)
+  - [Colors](#Colors)
   - [Font](#Font)
   - [Images](#Images)
-  - [Sound Effects](#Sound\ Effects)   
-
-
+  - [Sound Effects](<#Sound\ Effects>)
 
 ## Abbreviations
 
@@ -139,7 +138,6 @@ You can contribute to this fantastic-youtube-list repo by sending pull request, 
 
 ### SQL
 
-
 ### NoSql
 
 ---
@@ -152,8 +150,7 @@ You can contribute to this fantastic-youtube-list repo by sending pull request, 
 
 - ["Red Stapler"](https://www.youtube.com/channel/UCRthRrv06q1iOl86-tTKJhg/playlists "Youtube Channel Link") Owned by Coders
 
-- ['Fireship'](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA/playlists "Youtube Channel Link") | Javascript Cooktube 
-
+- ['Fireship'](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA/playlists "Youtube Channel Link") | Javascript Cooktube
 
 ### Python
 
@@ -296,6 +293,8 @@ You can contribute to this fantastic-youtube-list repo by sending pull request, 
 - [packtpub.com](https://subscription.packtpub.com/ "Link") | online resource for reading tech books
 - [opensource.com](https://opensource.com/tags/command-line "Link") | a plateform for open source community.
 - [github.blog](https://github.blog/ "Link") | read articles and blogs related to engineering and tech.
+- [fossmint.com](https://www.fossmint.com/ "Link") | Learn Every thing about linux
+- [journaldev.com](https://www.journaldev.com/ "Link") | Programming and Tech articles.
 
 ### Free Website Templates.
 
@@ -332,6 +331,7 @@ You can contribute to this fantastic-youtube-list repo by sending pull request, 
 - [compressor.io](https://compressor.io "Link") | Online Photo Compersing Tool.
 
 ### Sound Effects
+
 - [bensound.com](https://www.bensound.com/ "Link") | free and premium sounds for your project.
 
 - [soundcloud.com](https://soundcloud.com/ "Link") | sound and music plateform for sharing.
