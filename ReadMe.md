@@ -240,6 +240,8 @@ You can contribute to this fantastic-youtube-list repo by sending pull request, 
 
 - [linuxhint](https://www.youtube.com/channel/UCHErB0TULAlldbhPMfBJ1Xg "Youtube Channel Link") Instructor -?
 
+- [kubucation](https://www.youtube.com/channel/UCiqnRXPAAk6iv2m47odUFzw/playlists "Youtube Channel Link") | awesome linux bash practical tutorials
+
 ---
 
 ## Reverse Engineering
