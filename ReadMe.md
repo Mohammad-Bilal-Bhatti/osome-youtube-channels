@@ -296,7 +296,7 @@ You can contribute to this fantastic-youtube-list repo by sending pull request, 
 
 ### Colors
 
-- [flatuicolors.com](https://flatuicolors.com/ "Link")
+- [flatuicolors.com](https://flatuicolors.com/ "Link") | flat ui color pallet :art:
 - [Colorhunt.co](https://colorhunt.co/ "Link")
 - [color.adobe.com](https://color.adobe.com/explore "Link")
 - [paleton.com](https://www.paleton.com "Link")
