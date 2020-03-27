@@ -5,36 +5,36 @@
 - [Basics](#Abbreviations)
   - [Abbreviations](#Abbreviations)
   - [Description](#Description)
-  - [How to Contribute?](<#How\ to\ Contribute?>)
+  - [How to Contribute?](#How-to-Contribute?)
 - [Programming](#Programming)
   - [Python](#Python)
   - [Javascript](#JavaScript)
   - [Java](#Java)
   - [PHP](#PHP)
   - [C#](#C-Sharp)
-  - [Android](<#Android\ Development>)
-  - [Web](<#Web\ Development>)
-  - [CssTricks](<#Css\ Tricks>)
-  - [Data-Structures](<#Data\ Structures>)
-  - [AI](<#Artificial\ Intelligence>)
-  - [Wordpress](<#Wordpress\ Development\ and\ Designing>)
-  - [Bash Scripting](<#Bash\ Scripting>)
-  - [Reverse Engineering](<#Reverse\ Engineering>)
+  - [Android](#Android-Development)
+  - [Web](#Web-Development)
+  - [CssTricks](#Css-Tricks)
+  - [Data-Structures](#Data-Structures)
+  - [AI](#Artificial-Intelligence)
+  - [Wordpress](#Wordpress)
+  - [Bash Scripting](#Bash-Scripting)
+  - [Reverse Engineering](#Reverse-Engineering)
 - [Designing](#Designing)
   - [Photoshop](#Photoshop)
   - [Illustrator](#Illustrator)
 - [Databases](#Databases)
   - [SQL](#SQL)
   - [No-Sql](#NoSql)
-- [Audio Engineering](<#Audio\ Engineering>)
-- [Userful Links](<#Userful\ Links\ Section>)
-  - [Online Code Editors](<#Online\ Code\ Editors>)
+- [Audio Engineering](#Audio-Engineering)
+- [Userful Links](#Userful-Links-Section>)
+  - [Online Code Editors](#Online-Code-Editors)
   - [Articles](#Articles)
-  - [Free Website Templates](<#Free\ Website\ Templates>)
+  - [Free Website Templates](#Free-Website-Templates)
   - [Colors](#Colors)
   - [Font](#Font)
   - [Images](#Images)
-  - [Sound Effects](<#Sound\ Effects>)
+  - [Sound Effects](#Sound-Effects)
 
 ## Abbreviations
 
@@ -48,11 +48,11 @@
 
 This is an open youtube channels list from where anyone can easilly find out YT-channels that are loved by community.
 
-## How to Contribute?
+## How-to-Contribute?
 
 You can contribute to this fantastic-youtube-list repo by sending pull request, after forking and modifying your fork.
 
-#### Still Confused ? Read These...
+#### Still confused ? Read These...
 
 - [5 Types of Git Workflow.](https://buddy.works/blog/5-types-of-git-workflows "Article")
 
@@ -62,7 +62,7 @@ You can contribute to this fantastic-youtube-list repo by sending pull request, 
 
 ---
 
-## Android Development
+## Android-Development
 
 - [Aws Rh](https://www.youtube.com/channel/UCoQp_Duwqh0JWEZrg4DT2Ug "Youtube Channel Link") Instructor - Aws Rh
 
@@ -70,7 +70,7 @@ You can contribute to this fantastic-youtube-list repo by sending pull request, 
 
 ---
 
-## Artificial Intelligence
+## Artificial-Intelligence
 
 - [Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q "Youtube Channel Link") Games AI Examples
 
@@ -184,25 +184,17 @@ You can contribute to this fantastic-youtube-list repo by sending pull request, 
 
 - [Programming with Mosh ](https://www.youtube.com/user/programmingwithmosh "Youtube Channel Link") Instrustor - Mosh Manadani
 
-### Css Tricks
+### Css
 
 - ["Colt Steele"](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw/videos "Youtube Channel Link") Instructor - Colt Steel
 
 - ["Red Stapler"](https://www.youtube.com/channel/UCRthRrv06q1iOl86-tTKJhg/playlists "Youtube Channel Link") Owned by Coders
 
----
-
-## Data Structures
-
-- [Programming with Mosh ](https://www.youtube.com/user/programmingwithmosh "Youtube Channel Link") Instrustor - Mosh Manadani
-
----
-
 ## Databases
 
 ---
 
-## Web Development
+## Web-Development
 
 - [The net ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg "Youtube Channel Link") Instructor - ?
 
@@ -216,7 +208,7 @@ You can contribute to this fantastic-youtube-list repo by sending pull request, 
 
 ---
 
-## Wordpress Development and Designing
+## Wordpress
 
 - [Freelance Pakistan](https://www.youtube.com/playlist?list=PLEEg17VzyLfs1oj9cyfNLr650KBH7wHk0) Instructor - Farooq Hussain Shah
 
@@ -226,13 +218,13 @@ You can contribute to this fantastic-youtube-list repo by sending pull request, 
 
 ---
 
-## Data Structures
+## Data-Structures
 
 - [Programming with Mosh ](https://www.youtube.com/user/programmingwithmosh "Youtube Channel Link") Instrustor - Mosh Manadani
 
 ---
 
-## Bash Scripting
+## Bash-Scripting
 
 - [Joe Collins](https://www.youtube.com/user/BadEditPro "Youtube Channel Link") Instructor - Joe Collins
 
@@ -244,32 +236,32 @@ You can contribute to this fantastic-youtube-list repo by sending pull request, 
 
 ---
 
-## Reverse Engineering
+## Reverse-Engineering
 
 - [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w "Youtube Channel Link") Instructor - ?
 
 ---
 
-## Audio Engineering
+## Audio-Engineering
 
 - [In The Mix](https://www.youtube.com/channel/UCIcCXe3iWo6lq-iWKV40Oug "Youtube Channel Link") Learn how to create music
 
 ---
 
-## Block Chain
+## Block-Chain
 
 ---
 
-## Userful Links Section.
+## Userful-Links-Section.
 
-### Online Code Editors:
+### Online-Code-Editors:
 
 - [codepen.io](https://codepen.io "Link") | Discover and write fornt end codes.
 - [playcode.io](https://playcode.io/ "Link") | write and execute code online.
 - [codesandbox.io](https://codesandbox.io/ "Link") | create your send box environment of your choice and play.
 - [npm.runkit.com](https://npm.runkit.com/ "Link") | test any javascript module/package online.
 
-### Challange your self:
+### Challange-your-self:
 
 - [hackerrank.com](https://www.hackerrank.com/ "Link") | check your level of coding skills.
 
@@ -298,12 +290,13 @@ You can contribute to this fantastic-youtube-list repo by sending pull request, 
 - [fossmint.com](https://www.fossmint.com/ "Link") | Learn Every thing about linux
 - [journaldev.com](https://www.journaldev.com/ "Link") | Programming and Tech articles.
 
-### Free Website Templates.
+### Free-Website-Templates.
 
 - [Theme-wagon](https://themewagon.com/ "Link") | download 1000+ free templates and use them.
 
-### Colors:
+### Colors
 
+- [flatuicolors.com](https://flatuicolors.com/ "Link")
 - [Colorhunt.co](https://colorhunt.co/ "Link")
 - [color.adobe.com](https://color.adobe.com/explore "Link")
 - [paleton.com](https://www.paleton.com "Link")
@@ -321,18 +314,18 @@ You can contribute to this fantastic-youtube-list repo by sending pull request, 
 - [materialpalette.com](https://www.materialpalette.com/ "Link")
 - [colorsinspo.com](https://colorsinspo.com/ "Link")
 
-### Font:
+### Font
 
 - [mixfont.com](https://www.mixfont.com/Titillium-Web+Nixie-One "link") | Ai based font selector.
 
-### Images:
+### Images
 
 - [pexels.com](https://pexels.com "Link") | Free Images Site.
 - [unsplash.com](https://unsplash.com "Link") | Free Images Site.
 - [pixlr.com](https://pixlr.com "Link") | Online photo Editor.
 - [compressor.io](https://compressor.io "Link") | Online Photo Compersing Tool.
 
-### Sound Effects
+### Sound-Effects
 
 - [bensound.com](https://www.bensound.com/ "Link") | free and premium sounds for your project.
 
