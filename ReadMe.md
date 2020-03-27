@@ -14,7 +14,7 @@
   - [C#](#C-Sharp)
   - [Android](#Android-Development)
   - [Web](#Web-Development)
-  - [CssTricks](#Css-Tricks)
+  - [Css](#Css)
   - [Data-Structures](#Data-Structures)
   - [AI](#Artificial-Intelligence)
   - [Wordpress](#Wordpress)
