@@ -258,6 +258,8 @@ You can contribute to this fantastic-youtube-list repo by sending pull request, 
 
 - [codepen.io](https://codepen.io "Link") | Discover and write fornt end codes.
 - [playcode.io](https://playcode.io/ "Link") | write and execute code online.
+- [stackbilitz.com](https://stackblitz.com/ "Link") | IDE in Browser.
+
 - [codesandbox.io](https://codesandbox.io/ "Link") | create your send box environment of your choice and play.
 - [npm.runkit.com](https://npm.runkit.com/ "Link") | test any javascript module/package online.
 
@@ -296,7 +298,9 @@ You can contribute to this fantastic-youtube-list repo by sending pull request, 
 
 ### Colors
 
+- [leonardocolor.io](https://leonardocolor.io/ "Link") | Ultimate color palate generator.
 - [flatuicolors.com](https://flatuicolors.com/ "Link") | flat ui color pallet :art:
+- [uidesign/color/maker](https://learnui.design/tools/data-color-picker.html "Link") | Generate own color scheme by selecting two colors
 - [Colorhunt.co](https://colorhunt.co/ "Link")
 - [color.adobe.com](https://color.adobe.com/explore "Link")
 - [paleton.com](https://www.paleton.com "Link")
