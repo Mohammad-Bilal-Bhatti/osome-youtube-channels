@@ -296,6 +296,12 @@ You can contribute to this fantastic-youtube-list repo by sending pull request, 
 
 - [Theme-wagon](https://themewagon.com/ "Link") | download 1000+ free templates and use them.
 
+### UI/UX and Designs Ideas.
+
+- [Uplabs.com](https://www.uplabs.com "Link") | UpLabs curates the best of design & development inspiration, resources and freebies. Every day!
+- [dribbble.com](https://dribbble.com "Link") | Discover the world’s top designers & creatives
+- [pinterest.com](https://www.pinterest.com "Link") | Pinterest is an image sharing and social media service
+
 ### Colors
 
 - [leonardocolor.io](https://leonardocolor.io/ "Link") | Ultimate color palate generator.
@@ -321,6 +327,17 @@ You can contribute to this fantastic-youtube-list repo by sending pull request, 
 ### Font
 
 - [mixfont.com](https://www.mixfont.com/Titillium-Web+Nixie-One "link") | Ai based font selector.
+
+### Icons.
+
+- [FontAwesome](https://fontawesome.com "Link") | Free Vector Graphics
+- [Icons8.com](https://icons8.com "Link") | Free icons for your project, desktop all also available.
+- [icons8.com-ouch](https://icons8.com/ouch "Link") | Free Vector Illustrations to Class up Your Project
+- [streamlineicons.com](https://www.streamlineicons.com "Link") The world’s largest icon pack
+
+### Music and sound tracks
+
+- [icons8.com-music](https://icons8.com/music "link") | Music for your projects
 
 ### Images
 
