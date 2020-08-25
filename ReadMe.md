@@ -254,6 +254,10 @@ You can contribute to this fantastic-youtube-list repo by sending pull request, 
 
 ## Userful-Links-Section.
 
+### Android resources
+
+- [Android-Asset-Studio](https://romannurik.github.io/AndroidAssetStudio/ "Creating android resources with easyness") | Create Android launcher icons, shortcut generator, shape shifter generator, generic icon, notification generator with different exportable points.
+
 ### Online-Code-Editors:
 
 - [codepen.io](https://codepen.io "Link") | Discover and write fornt end codes.
@@ -355,3 +359,4 @@ You can contribute to this fantastic-youtube-list repo by sending pull request, 
 ### Un-organized
 
 - [behance.net](https://www.behance.net "Link") | For Exploring New Design Trends Runing in the Market.
+- [NOTES](http://lib.vcomsats.edu.pk/Library/Library/ "vcomsats virtual comsats notes") | virtual comsats lecture pdf handouts.
