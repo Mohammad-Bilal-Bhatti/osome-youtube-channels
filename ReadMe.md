@@ -132,6 +132,13 @@ You can contribute to this fantastic-youtube-list repo by sending pull request, 
 
 - [AJ&Smart](https://www.youtube.com/channel/UCeB_OpLspKJGiKv1CYkWFFw "Youtube Channel Link") | UX
 
+### Premier Pro
+
+- [Adobe In Minute](https://www.youtube.com/channel/UCCOCVxg0ZiLo6GQ0xctkM7g "Youtube Channel link") | Explains small tips and tricks in a minute or two.
+- [minkit](https://mixkit.co/ "Site link") | Premier pro templates, transitions, sample videos and music.
+
+- [motionarray](https://motionarray.com/ "Site link") | Premier pro resources site
+
 ---
 
 ## Databases
@@ -258,6 +265,8 @@ You can contribute to this fantastic-youtube-list repo by sending pull request, 
 
 - [Android-Asset-Studio](https://romannurik.github.io/AndroidAssetStudio/ "Creating android resources with easyness") | Create Android launcher icons, shortcut generator, shape shifter generator, generic icon, notification generator with different exportable points.
 
+- [android-arsenal](https://https://android-arsenal.com/ "Android developers portal") | Android developers portal with tools libraries and apps
+
 ### Online-Code-Editors:
 
 - [codepen.io](https://codepen.io "Link") | Discover and write fornt end codes.
@@ -355,6 +364,12 @@ You can contribute to this fantastic-youtube-list repo by sending pull request, 
 - [bensound.com](https://www.bensound.com/ "Link") | free and premium sounds for your project.
 
 - [soundcloud.com](https://soundcloud.com/ "Link") | sound and music plateform for sharing.
+
+- [ashamaluevmusic](https://www.ashamaluevmusic.com/ "Link") | background music free or licenced
+
+### Robotic voice overs
+
+- [voicebooking](https://www.voicebooking.com/en/free-voice-over-generator "Site link") | Generate robotic voice overs in different styles, tones and languagres.
 
 ### Un-organized
 
